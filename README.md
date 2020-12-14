@@ -28,6 +28,9 @@
   - Saving and Loading model and vectorizer.
 
 ## References:
-https://stackabuse.com/text-classification-with-python-and-scikit-learn/
-https://towardsdatascience.com/training-a-naive-bayes-model-to-identify-the-author-of-an-email-or-document-17dc85fa630a
-https://www.kaggle.com/loryn808/baseline-bag-of-words-linear-regression
+https://stackabuse.com/text-classification-with-python-and-scikit-learn/ <br>
+https://towardsdatascience.com/training-a-naive-bayes-model-to-identify-the-author-of-an-email-or-document-17dc85fa630a <br>
+https://www.kaggle.com/loryn808/baseline-bag-of-words-linear-regression <br>
+
+## Link to classifier:
+http://nisargpawar.pythonanywhere.com/
